@@ -1,2 +1,2 @@
 # test
-this is a repository
+仓库
